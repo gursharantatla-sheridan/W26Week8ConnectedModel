@@ -15,6 +15,6 @@
         <Button x:Name="btnLoad" Content="Load Grid" Canvas.Left="28" Canvas.Top="161" FontSize="20" FontWeight="Bold" Width="233" Height="40" Click="btnLoad_Click"/>
         <Button x:Name="btnSearch" Content="Search Emp by Name" Canvas.Left="28" Canvas.Top="227" FontSize="20" FontWeight="Bold" Width="233" Height="40" Click="btnSearch_Click"/>
         <Button x:Name="btnCount" Content="Count Table Rows" Canvas.Left="28" Canvas.Top="291" FontSize="20" FontWeight="Bold" Width="233" Height="40" Click="btnCount_Click"/>
-        <Button x:Name="btnInsert" Content="Insert New Emp" Canvas.Left="28" Canvas.Top="361" FontSize="20" FontWeight="Bold" Width="233" Height="40"/>
+        <Button x:Name="btnInsert" Content="Insert New Emp" Canvas.Left="28" Canvas.Top="361" FontSize="20" FontWeight="Bold" Width="233" Height="40" Click="btnInsert_Click"/>
     </Canvas>
 </Window>
